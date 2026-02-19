@@ -1,1 +1,1 @@
-# loan-approval-simulator
+# loan-approval-service
